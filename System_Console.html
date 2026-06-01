@@ -1,4 +1,4 @@
-<!DOCTYPE html><!-- june 1 1111 -->
+<!DOCTYPE html><!-- june 1 1142 -->
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -48,11 +48,13 @@
             <div id="output-content"></div>
         </div>
     </div>
-    <div class="controls">
+    <!--div class="controls"-->
+    <div class="controls" style="display:flex; align-items:center; gap:8px;">
         <button onclick="startDisplay()">Start</button>
         <button onclick="stopDisplay()">Stop</button>
         <button onclick="resetDisplay()">Reset</button>
         <label>Speed: <input type="range" id="speedControl" min="1" max="100" value="55" step="1" onchange="updateSpeed()"> </label>
+        <span style="margin-left:auto;">V4</span>
     </div>
 
     <script>
@@ -131,3 +133,4 @@
         }
     </script>
 </body>
+</html>
