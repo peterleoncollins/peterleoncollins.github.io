@@ -1,0 +1,292 @@
+<svg height="1000" width="1600" xmlns="http://www.w3.org/2000/svg">
+<title>NZ Treasury Crown Revenue/Expenses Chart</title>
+<!-- Generated with SankeyMATIC: 27/07/2026, 11:15:32 pm -->
+<rect height="1000" width="1600" fill="#ffffff"></rect>
+<g transform="translate(234.91667,18)">
+<g id="sankey_flows">
+<path id="flow35" d="M591.96193 218.32224v605.66652L679.70241 664.9637v-605.66652z" fill="#1f77b4" stroke-width="0.5" stroke="#1f77b4" opacity="0.45"><title>Core Crown → Core Crown Expenses: 141,675</title></path>
+<path id="flow32" d="M691.70241 60.11798v604.84571L742.44289 692.98053v-604.84571z" fill="#2ca02c" stroke-width="0.5" stroke="#2ca02c" opacity="0.45"><title>Core Crown Expenses → Functional Spending: 141,483</title></path>
+<path id="flow34" d="M511.22145 185.48216v574.61262L579.96193 792.93486v-574.61262z" fill="#1f77b4" stroke-width="0.5" stroke="#1f77b4" opacity="0.45"><title>Core Crown Revenue → Core Crown: 134,411</title></path>
+<path id="flow15" d="M299.7405 158.53458v520.26402L418.48096 638.59165v-520.26402z" fill="#7f7f7f" stroke-width="0.5" stroke="#7f7f7f" opacity="0.45"><title>Tax revenue (Notes detail) → Core Crown Tax Revenue: 121,698</title></path>
+<path id="flow17" d="M430.48096 118.32763v520.26402L499.22145 705.74617v-520.26402z" fill="#1f77b4" stroke-width="0.5" stroke="#1f77b4" opacity="0.45"><title>Core Crown Tax Revenue → Core Crown Revenue: 121,698</title></path>
+<path id="flow0" d="M16 32.81897v221.58823L287.7405 380.12282v-221.58823z" fill="#e377c2" stroke-width="0.5" stroke="#e377c2" opacity="0.45"><title>Source deductions → Tax revenue (Notes detail): 51,833</title></path>
+<path id="flow19" d="M754.44289 88.13482v203.0773L1013.18337 247.72159v-203.0773z" fill="#d62728" stroke-width="0.5" stroke="#d62728" opacity="0.45"><title>Functional Spending → Social security and welfare: 47,503</title></path>
+<path id="flow1" d="M15 257.96885v129.83301L287.7405 509.95583v-129.83301z" fill="#bcbd22" stroke-width="0.5" stroke="#bcbd22" opacity="0.45"><title>GST → Tax revenue (Notes detail): 30,370</title></path>
+<path id="flow20" d="M754.44289 291.21212v129.58079L1013.18337 399.62452v-129.58079z" fill="#9467bd" stroke-width="0.5" stroke="#9467bd" opacity="0.45"><title>Functional Spending → Health: 30,311</title></path>
+<path id="flow21" d="M754.44289 420.79291v89.32699L1013.18337 511.27366v-89.32699z" fill="#8c564b" stroke-width="0.5" stroke="#8c564b" opacity="0.45"><title>Functional Spending → Education: 20,895</title></path>
+<path id="flow2" d="M15 393.99056v83.56851L287.7405 593.52434v-83.56851z" fill="#17becf" stroke-width="0.5" stroke="#17becf" opacity="0.45"><title>Gross companies tax → Tax revenue (Notes detail): 19,548</title></path>
+<path id="flow18" d="M324.48096 767.18777v54.3486L499.22145 760.09478v-54.3486z" fill="#1f77b4" stroke-width="0.5" stroke="#1f77b4" opacity="0.45"><title>Other Core Crown revenue (plug, not decomposed) → Core Crown Revenue: 12,713</title></path>
+<path id="flow3" d="M15 483.90039v47.23493L287.7405 640.75928v-47.23493z" fill="#1f77b4" stroke-width="0.5" stroke="#1f77b4" opacity="0.45"><title>Other persons tax → Tax revenue (Notes detail): 11,049</title></path>
+<path id="flow22" d="M754.44289 510.1199v37.88542L1013.18337 571.48122v-37.88542z" fill="#e377c2" stroke-width="0.5" stroke="#e377c2" opacity="0.45"><title>Functional Spending → Finance costs: 8,862</title></path>
+<path id="flow23" d="M754.44289 548.00532v33.80703L1013.18337 627.61039v-33.80703z" fill="#1f77b4" stroke-width="0.5" stroke="#1f77b4" opacity="0.45"><title>Functional Spending → Core government services: 7,908</title></path>
+<path id="flow36" d="M514.22145 842.50142v31.0539L579.96193 823.98876v-31.0539z" fill="#e377c2" stroke-width="0.5" stroke="#e377c2" opacity="0.45"><title>Borrowing required (accrual) → Core Crown: 7,264</title></path>
+<path id="flow24" d="M754.44289 581.81235v28.78813L1013.18337 678.72066v-28.78813z" fill="#7f7f7f" stroke-width="0.5" stroke="#7f7f7f" opacity="0.45"><title>Functional Spending → Law and order: 6,734</title></path>
+<path id="flow37" d="M446.48098 882.7732v25.63315L502.22145 873.55532v-25.63315z" fill="#e377c2" stroke-width="0.5" stroke="#e377c2" opacity="0.45"><title>Borrowing required (cash, per Residual Cash) → Borrowing required (accrual): 5,996</title></path>
+<path id="flow25" d="M754.44289 610.60048v23.39303L1013.18337 724.43583v-23.39303z" fill="#bcbd22" stroke-width="0.5" stroke="#bcbd22" opacity="0.45"><title>Functional Spending → Transport and communications: 5,472</title></path>
+<path id="flow16" d="M299.7405 678.7986v18.75888L126.48096 778.33178v-18.75888z" fill="#7f7f7f" stroke-width="0.5" stroke="#7f7f7f" opacity="0.45"><title>Tax revenue (Notes detail) → Notes-to-official tax adjustment (excluded): 4,388</title></path>
+<path id="flow4" d="M16 558.39856v15.24907L287.7405 664.72089v-15.24907z" fill="#ff7f0e" stroke-width="0.5" stroke="#ff7f0e" opacity="0.45"><title>RWT on interest → Tax revenue (Notes detail): 3,567</title></path>
+<path id="flow26" d="M754.44289 633.99351v15.0225L1013.18337 761.78047v-15.0225z" fill="#17becf" stroke-width="0.5" stroke="#17becf" opacity="0.45"><title>Functional Spending → Economic and industrial services: 3,514</title></path>
+<path id="flow27" d="M754.44289 649.016v13.98366L1013.18337 798.08628v-13.98366z" fill="#1f77b4" stroke-width="0.5" stroke="#1f77b4" opacity="0.45"><title>Functional Spending → Defence: 3,271</title></path>
+<path id="flow28" d="M754.44289 662.99966v10.30285L1013.18337 830.71127v-10.30285z" fill="#ff7f0e" stroke-width="0.5" stroke="#ff7f0e" opacity="0.45"><title>Functional Spending → Environmental protection: 2,410</title></path>
+<path id="flow29" d="M754.44289 673.30251v9.19134L1013.18337 862.22475v-9.19134z" fill="#2ca02c" stroke-width="0.5" stroke="#2ca02c" opacity="0.45"><title>Functional Spending → Housing and community development: 2,150</title></path>
+<path id="flow5" d="M17 537.9899v8.71253L287.7405 649.47181v-8.71253z" fill="#2ca02c" stroke-width="0.5" stroke="#2ca02c" opacity="0.45"><title>Road user charges → Tax revenue (Notes detail): 2,038</title></path>
+<path id="flow6" d="M16 584.03028v8.52871L287.7405 673.2496v-8.52871z" fill="#d62728" stroke-width="0.5" stroke="#d62728" opacity="0.45"><title>Petroleum fuels excise → Tax revenue (Notes detail): 1,995</title></path>
+<path id="flow7" d="M15 608.86048v6.28859L287.7405 679.53818v-6.28859z" fill="#9467bd" stroke-width="0.5" stroke="#9467bd" opacity="0.45"><title>Tobacco excise → Tax revenue (Notes detail): 1,471</title></path>
+<path id="flow30" d="M754.44289 682.49385v6.22874L1013.18337 890.77563v-6.22874z" fill="#d62728" stroke-width="0.5" stroke="#d62728" opacity="0.45"><title>Functional Spending → Heritage culture and recreation: 1,457</title></path>
+<path id="flow38" d="M459.48098 828.54551v5.42075L502.22145 847.92217v-5.42075z" fill="#7f7f7f" stroke-width="0.5" stroke="#7f7f7f" opacity="0.45"><title>Non-cash accrual/timing adjustment → Borrowing required (accrual): 1,268</title></path>
+<path id="flow31" d="M754.44289 688.72259v4.25794L1013.18337 917.35571v-4.25794z" fill="#9467bd" stroke-width="0.5" stroke="#9467bd" opacity="0.45"><title>Functional Spending → Primary services: 996</title></path>
+<path id="flow8" d="M14 653.42132v4.01854L287.7405 686.92973v-4.01854z" fill="#ff7f0e" stroke-width="0.5" stroke="#ff7f0e" opacity="0.45"><title>RWT on dividends → Tax revenue (Notes detail): 940</title></path>
+<path id="flow9" d="M12 676.76351v3.81334L287.7405 690.74307v-3.81334z" fill="#8c564b" stroke-width="0.5" stroke="#8c564b" opacity="0.45"><title>Fringe benefit tax → Tax revenue (Notes detail): 892</title></path>
+<path id="flow10" d="M15 631.91609v3.37301L287.7405 682.91119v-3.37301z" fill="#e377c2" stroke-width="0.5" stroke="#e377c2" opacity="0.45"><title>Alcohol excise domestic → Tax revenue (Notes detail): 789</title></path>
+<path id="flow11" d="M12 724.5914v3.11223L287.7405 695.78761v-3.11223z" fill="#7f7f7f" stroke-width="0.5" stroke="#7f7f7f" opacity="0.45"><title>Non-resident withholding → Tax revenue (Notes detail): 728</title></path>
+<path id="flow12" d="M12 701.02935v1.93232L287.7405 692.67538v-1.93232z" fill="#e377c2" stroke-width="0.5" stroke="#e377c2" opacity="0.45"><title>Alcohol excise imports → Tax revenue (Notes detail): 452</title></path>
+<path id="flow13" d="M12 747.58725v1.22694L287.7405 697.01455v-1.22694z" fill="#bcbd22" stroke-width="0.5" stroke="#bcbd22" opacity="0.45"><title>Gaming duties → Tax revenue (Notes detail): 287</title></path>
+<path id="flow33" d="M595.96193 47.70146v0.82081L679.70241 59.29718v-0.82081z" fill="#1f77b4" stroke-width="0.5" stroke="#1f77b4" opacity="0.45"><title>Unclassified/rounding adjustment → Core Crown Expenses: 192</title></path>
+<path id="flow14" d="M12 909.80894v0.54293L287.7405 697.55748v-0.54293z" fill="#17becf" stroke-width="0.5" stroke="#17becf" opacity="0.45"><title>Customs duty → Tax revenue (Notes detail): 127</title></path>
+</g>
+<g id="sankey_nodes">
+<g class="node">
+<rect id="r0" class="for_r0" x="0" y="58.81897" height="221.58823" width="12" fill="#e377c2" fill-opacity="1" transform="translate(4,-26)"><title>Source deductions:
+51,833</title></rect>
+</g>
+<g class="node">
+<rect id="r1" class="for_r1" x="144.74048" y="92.76036" height="539.0229" width="12" fill="#7f7f7f" fill-opacity="1" transform="translate(143.00002,65.77422)"><title>Tax revenue (Notes detail):
+126,086</title></rect>
+</g>
+<g class="node">
+<rect id="r2" class="for_r2" x="0" y="302.72934" height="129.83301" width="12" fill="#bcbd22" fill-opacity="1" transform="translate(3,-44.76049)"><title>GST:
+30,370</title></rect>
+</g>
+<g class="node">
+<rect id="r3" class="for_r3" x="0" y="454.8845" height="83.56851" width="12" fill="#17becf" fill-opacity="1" transform="translate(3,-60.89394)"><title>Gross companies tax:
+19,548</title></rect>
+</g>
+<g class="node">
+<rect id="r4" class="for_r4" x="0" y="560.77516" height="47.23493" width="12" fill="#1f77b4" fill-opacity="1" transform="translate(3,-76.87477)"><title>Other persons tax:
+11,049</title></rect>
+</g>
+<g class="node">
+<rect id="r5" class="for_r5" x="0" y="630.33223" height="15.24907" width="12" fill="#ff7f0e" fill-opacity="1" transform="translate(4,-71.93367)"><title>RWT on interest:
+3,567</title></rect>
+</g>
+<g class="node">
+<rect id="r6" class="for_r6" x="0" y="667.90345" height="8.71253" width="12" fill="#2ca02c" fill-opacity="1" transform="translate(5,-129.91355)"><title>Road user charges:
+2,038</title></rect>
+</g>
+<g class="node">
+<rect id="r7" class="for_r7" x="0" y="698.93813" height="8.52871" width="12" fill="#d62728" fill-opacity="1" transform="translate(4,-114.90785)"><title>Petroleum fuels excise:
+1,995</title></rect>
+</g>
+<g class="node">
+<rect id="r8" class="for_r8" x="0" y="729.78898" height="6.28859" width="12" fill="#9467bd" fill-opacity="1" transform="translate(3,-120.9285)"><title>Tobacco excise:
+1,471</title></rect>
+</g>
+<g class="node">
+<rect id="r9" class="for_r9" x="0" y="758.39971" height="4.01854" width="12" fill="#ff7f0e" fill-opacity="1" transform="translate(2,-104.97838)"><title>RWT on dividends:
+940</title></rect>
+</g>
+<g class="node">
+<rect id="r10" class="for_r10" x="0" y="784.74039" height="3.81334" width="12" fill="#8c564b" fill-opacity="1" transform="translate(0,-107.97688)"><title>Fringe benefit tax:
+892</title></rect>
+</g>
+<g class="node">
+<rect id="r11" class="for_r11" x="0" y="810.87587" height="3.37301" width="12" fill="#e377c2" fill-opacity="1" transform="translate(3,-178.95978)"><title>Alcohol excise domestic:
+789</title></rect>
+</g>
+<g class="node">
+<rect id="r12" class="for_r12" x="0" y="836.57102" height="3.11223" width="12" fill="#7f7f7f" fill-opacity="1" transform="translate(0,-111.97962)"><title>Non-resident withholding:
+728</title></rect>
+</g>
+<g class="node">
+<rect id="r13" class="for_r13" x="0" y="862.00539" height="1.93232" width="12" fill="#e377c2" fill-opacity="1" transform="translate(0,-160.97605)"><title>Alcohol excise imports:
+452</title></rect>
+</g>
+<g class="node">
+<rect id="r14" class="for_r14" x="0" y="886.25986" height="1.22694" width="12" fill="#bcbd22" fill-opacity="1" transform="translate(0,-138.67261)"><title>Gaming duties:
+287</title></rect>
+</g>
+<g class="node">
+<rect id="r15" class="for_r15" x="0" y="909.80894" height="0.54293" width="12" fill="#17becf" fill-opacity="1"><title>Customs duty:
+127</title></rect>
+</g>
+<g class="node">
+<rect id="r16" class="for_r16" x="289.48096" y="89.31599" height="520.26402" width="12" fill="#1f77b4" fill-opacity="1" transform="translate(129,29.01164)"><title>Core Crown Tax Revenue:
+121,698</title></rect>
+</g>
+<g class="node">
+<rect id="r17" class="for_r17" x="289.48096" y="708.5729" height="18.75888" width="12" fill="#ff7f0e" fill-opacity="1" transform="translate(-163,51)"><title>Notes-to-official tax adjustment (excluded):
+4,388</title></rect>
+</g>
+<g class="node">
+<rect id="r18" class="for_r18" x="434.22145" y="93.63222" height="574.61262" width="12" fill="#1f77b4" fill-opacity="1" transform="translate(65,91.84994)"><title>Core Crown Revenue:
+134,411</title></rect>
+</g>
+<g class="node">
+<rect id="r19" class="for_r19" x="289.48096" y="631.90215" height="54.3486" width="12" fill="#1f77b4" fill-opacity="1" transform="translate(23,135.28562)"><title>Other Core Crown revenue (plug, not decomposed):
+12,713</title></rect>
+</g>
+<g class="node">
+<rect id="r20" class="for_r20" x="868.44289" y="94.94299" height="604.84571" width="12" fill="#2ca02c" fill-opacity="1" transform="translate(-126,-6.80817)"><title>Functional Spending:
+141,483</title></rect>
+</g>
+<g class="node">
+<rect id="r21" class="for_r21" x="1013.18337" y="44.64429" height="203.0773" width="12" fill="#d62728" fill-opacity="1"><title>Social security and welfare:
+47,503</title></rect>
+</g>
+<g class="node">
+<rect id="r22" class="for_r22" x="1013.18337" y="270.04373" height="129.58079" width="12" fill="#9467bd" fill-opacity="1"><title>Health:
+30,311</title></rect>
+</g>
+<g class="node">
+<rect id="r23" class="for_r23" x="1013.18337" y="421.94666" height="89.32699" width="12" fill="#8c564b" fill-opacity="1"><title>Education:
+20,895</title></rect>
+</g>
+<g class="node">
+<rect id="r24" class="for_r24" x="1013.18337" y="533.5958" height="37.88542" width="12" fill="#e377c2" fill-opacity="1"><title>Finance costs:
+8,862</title></rect>
+</g>
+<g class="node">
+<rect id="r25" class="for_r25" x="1013.18337" y="593.80336" height="33.80703" width="12" fill="#1f77b4" fill-opacity="1"><title>Core government services:
+7,908</title></rect>
+</g>
+<g class="node">
+<rect id="r26" class="for_r26" x="1013.18337" y="649.93253" height="28.78813" width="12" fill="#7f7f7f" fill-opacity="1"><title>Law and order:
+6,734</title></rect>
+</g>
+<g class="node">
+<rect id="r27" class="for_r27" x="1013.18337" y="701.04281" height="23.39303" width="12" fill="#bcbd22" fill-opacity="1"><title>Transport and communications:
+5,472</title></rect>
+</g>
+<g class="node">
+<rect id="r28" class="for_r28" x="1013.18337" y="746.75798" height="15.0225" width="12" fill="#17becf" fill-opacity="1"><title>Economic and industrial services:
+3,514</title></rect>
+</g>
+<g class="node">
+<rect id="r29" class="for_r29" x="1013.18337" y="784.10261" height="13.98366" width="12" fill="#1f77b4" fill-opacity="1"><title>Defence:
+3,271</title></rect>
+</g>
+<g class="node">
+<rect id="r30" class="for_r30" x="1013.18337" y="820.40842" height="10.30285" width="12" fill="#ff7f0e" fill-opacity="1"><title>Environmental protection:
+2,410</title></rect>
+</g>
+<g class="node">
+<rect id="r31" class="for_r31" x="1013.18337" y="853.03341" height="9.19134" width="12" fill="#2ca02c" fill-opacity="1"><title>Housing and community development:
+2,150</title></rect>
+</g>
+<g class="node">
+<rect id="r32" class="for_r32" x="1013.18337" y="884.54689" height="6.22874" width="12" fill="#d62728" fill-opacity="1"><title>Heritage culture and recreation:
+1,457</title></rect>
+</g>
+<g class="node">
+<rect id="r33" class="for_r33" x="1013.18337" y="913.09777" height="4.25794" width="12" fill="#9467bd" fill-opacity="1"><title>Primary services:
+996</title></rect>
+</g>
+<g class="node">
+<rect id="r34" class="for_r34" x="723.70241" y="94.96211" height="606.48733" width="12" fill="#1f77b4" fill-opacity="1" transform="translate(-44,-36.48574)"><title>Core Crown Expenses:
+141,867</title></rect>
+</g>
+<g class="node">
+<rect id="r35" class="for_r35" x="578.96193" y="72.69945" height="0.82081" width="12" fill="#8c564b" fill-opacity="1" transform="translate(5,-24.998)"><title>Unclassified/rounding adjustment:
+192</title></rect>
+</g>
+<g class="node">
+<rect id="r36" class="for_r36" x="578.96193" y="95.84241" height="605.66652" width="12" fill="#1f77b4" fill-opacity="1" transform="translate(1,122.47983)"><title>Core Crown:
+141,675</title></rect>
+</g>
+<g class="node">
+<rect id="r37" class="for_r37" x="434.22145" y="712.00011" height="31.0539" width="12" fill="#e377c2" fill-opacity="1" transform="translate(68,130.5013)"><title>Borrowing required (accrual):
+7,264</title></rect>
+</g>
+<g class="node">
+<rect id="r38" class="for_r38" x="289.48096" y="749.65392" height="25.63315" width="12" fill="#e377c2" fill-opacity="1" transform="translate(145.00002,133.11928)"><title>Borrowing required (cash, per Residual Cash):
+5,996</title></rect>
+</g>
+<g class="node">
+<rect id="r39" class="for_r39" x="289.48096" y="797.60922" height="5.42075" width="12" fill="#7f7f7f" fill-opacity="1" transform="translate(158.00002,30.9363)"><title>Non-cash accrual/timing adjustment:
+1,268</title></rect>
+</g>
+</g>
+<g id="sankey_labels" font-family="sans-serif" font-size="16px" fill="#000000">
+<text text-anchor="middle" x="565.08333" y="977" font-size="12.87169px" font-weight="400" fill="#336781">Made at SankeyMATIC.com</text>
+<rect id="label0_bg" class="for_r0" x="-201.6" y="155.26309" width="199.73334" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(4,-26)"></rect>
+<text id="label0" class="for_r0" text-anchor="end" x="-6.53333" y="169.61308" font-weight="400" font-size="16px" dy="8.05" transform="translate(4,-26)">Source deductions: <tspan font-weight="400" font-size="16px">51,833</tspan></text>
+<rect id="label1_bg" class="for_r1" x="-121.79285" y="347.92181" width="264.66668" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(143.00002,65.77422)"></rect>
+<text id="label1" class="for_r1" text-anchor="end" x="138.20715" y="362.27181" font-weight="400" font-size="16px" dy="8.05" transform="translate(143.00002,65.77422)">Tax revenue (Notes detail): <tspan font-weight="400" font-size="16px">126,086</tspan></text>
+<rect id="label2_bg" class="for_r2" x="-101.95" y="353.29583" width="100.08333" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(3,-44.76049)"></rect>
+<text id="label2" class="for_r2" text-anchor="end" x="-6.53333" y="367.64585" font-weight="400" font-size="16px" dy="8.05" transform="translate(3,-44.76049)">GST: <tspan font-weight="400" font-size="16px">30,370</tspan></text>
+<rect id="label3_bg" class="for_r3" x="-219.36666" y="482.31875" width="217.5" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(3,-60.89394)"></rect>
+<text id="label3" class="for_r3" text-anchor="end" x="-6.53333" y="496.66876" font-weight="400" font-size="16px" dy="8.05" transform="translate(3,-60.89394)">Gross companies tax: <tspan font-weight="400" font-size="16px">19,548</tspan></text>
+<rect id="label4_bg" class="for_r4" x="-196.26666" y="570.04263" width="194.4" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(3,-76.87477)"></rect>
+<text id="label4" class="for_r4" text-anchor="end" x="-6.53333" y="584.39262" font-weight="400" font-size="16px" dy="8.05" transform="translate(3,-76.87477)">Other persons tax: <tspan font-weight="400" font-size="16px">11,049</tspan></text>
+<rect id="label5_bg" class="for_r5" x="-175.76666" y="623.60677" width="173.9" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(4,-71.93367)"></rect>
+<text id="label5" class="for_r5" text-anchor="end" x="-6.53333" y="637.95677" font-weight="400" font-size="16px" dy="8.05" transform="translate(4,-71.93367)">RWT on interest: <tspan font-weight="400" font-size="16px">3,567</tspan></text>
+<rect id="label6_bg" class="for_r6" x="-195.36666" y="657.90969" width="193.5" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(5,-129.91355)"></rect>
+<text id="label6" class="for_r6" text-anchor="end" x="-6.53333" y="672.25972" font-weight="400" font-size="16px" dy="8.05" transform="translate(5,-129.91355)">Road user charges: <tspan font-weight="400" font-size="16px">2,038</tspan></text>
+<rect id="label7_bg" class="for_r7" x="-221.13333" y="688.85244" width="219.26667" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(4,-114.90785)"></rect>
+<text id="label7" class="for_r7" text-anchor="end" x="-6.53333" y="703.20248" font-weight="400" font-size="16px" dy="8.05" transform="translate(4,-114.90785)">Petroleum fuels excise: <tspan font-weight="400" font-size="16px">1,995</tspan></text>
+<rect id="label8_bg" class="for_r8" x="-171.33332" y="718.58328" width="169.46666" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(3,-120.9285)"></rect>
+<text id="label8" class="for_r8" text-anchor="end" x="-6.53333" y="732.93327" font-weight="400" font-size="16px" dy="8.05" transform="translate(3,-120.9285)">Tobacco excise: <tspan font-weight="400" font-size="16px">1,471</tspan></text>
+<rect id="label9_bg" class="for_r9" x="-177.53334" y="746.05898" width="175.66668" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(2,-104.97838)"></rect>
+<text id="label9" class="for_r9" text-anchor="end" x="-6.53333" y="760.40898" font-weight="400" font-size="16px" dy="8.05" transform="translate(2,-104.97838)">RWT on dividends: <tspan font-weight="400" font-size="16px">940</tspan></text>
+<rect id="label10_bg" class="for_r10" x="-170.46667" y="772.29702" width="168.60001" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,-107.97688)"></rect>
+<text id="label10" class="for_r10" text-anchor="end" x="-6.53333" y="786.64706" font-weight="400" font-size="16px" dy="8.05" transform="translate(0,-107.97688)">Fringe benefit tax: <tspan font-weight="400" font-size="16px">892</tspan></text>
+<rect id="label11_bg" class="for_r11" x="-217.55" y="798.21237" width="215.68334" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(3,-178.95978)"></rect>
+<text id="label11" class="for_r11" text-anchor="end" x="-6.53333" y="812.56237" font-weight="400" font-size="16px" dy="8.05" transform="translate(3,-178.95978)">Alcohol excise domestic: <tspan font-weight="400" font-size="16px">789</tspan></text>
+<rect id="label12_bg" class="for_r12" x="-222.91667" y="823.77712" width="221.05001" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,-111.97962)"></rect>
+<text id="label12" class="for_r12" text-anchor="end" x="-6.53333" y="838.12714" font-weight="400" font-size="16px" dy="8.05" transform="translate(0,-111.97962)">Non-resident withholding: <tspan font-weight="400" font-size="16px">728</tspan></text>
+<rect id="label13_bg" class="for_r13" x="-205.98333" y="848.62155" width="204.11667" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,-160.97605)"></rect>
+<text id="label13" class="for_r13" text-anchor="end" x="-6.53333" y="862.97155" font-weight="400" font-size="16px" dy="8.05" transform="translate(0,-160.97605)">Alcohol excise imports: <tspan font-weight="400" font-size="16px">452</tspan></text>
+<rect id="label14_bg" class="for_r14" x="-149.98333" y="872.52328" width="148.11667" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,-138.67261)"></rect>
+<text id="label14" class="for_r14" text-anchor="end" x="-6.53333" y="886.87332" font-weight="400" font-size="16px" dy="8.05" transform="translate(0,-138.67261)">Gaming duties: <tspan font-weight="400" font-size="16px">287</tspan></text>
+<rect id="label15_bg" class="for_r15" x="-144.63333" y="895.73037" width="142.76667" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label15" class="for_r15" text-anchor="end" x="-6.53333" y="910.0804" font-weight="400" font-size="16px" dy="8.05">Customs duty: <tspan font-weight="400" font-size="16px">127</tspan></text>
+<rect id="label16_bg" class="for_r16" x="26.53097" y="335.09799" width="261.08333" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(129,29.01164)"></rect>
+<text id="label16" class="for_r16" text-anchor="end" x="282.94763" y="349.448" font-weight="400" font-size="16px" dy="8.05" transform="translate(129,29.01164)">Core Crown Tax Revenue: <tspan font-weight="400" font-size="16px">121,698</tspan></text>
+<rect id="label17_bg" class="for_r17" x="-69.5357" y="703.60232" width="357.14998" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(-163,51)"></rect>
+<text id="label17" class="for_r17" text-anchor="end" x="282.94763" y="717.95234" font-weight="400" font-size="16px" dy="8.05" transform="translate(-163,51)">Notes-to-official tax adjustment (excluded): <tspan font-weight="400" font-size="16px">4,388</tspan></text>
+<rect id="label18_bg" class="for_r18" x="202.40478" y="366.58853" width="229.95" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(65,91.84994)"></rect>
+<text id="label18" class="for_r18" text-anchor="end" x="427.68811" y="380.93853" font-weight="400" font-size="16px" dy="8.05" transform="translate(65,91.84994)">Core Crown Revenue: <tspan font-weight="400" font-size="16px">134,411</tspan></text>
+<rect id="label19_bg" class="for_r19" x="-144.30236" y="644.72646" width="431.91665" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(23,135.28562)"></rect>
+<text id="label19" class="for_r19" text-anchor="end" x="282.94763" y="659.07645" font-weight="400" font-size="16px" dy="8.05" transform="translate(23,135.28562)">Other Core Crown revenue (plug, not decomposed): <tspan font-weight="400" font-size="16px">12,713</tspan></text>
+<rect id="label20_bg" class="for_r20" x="882.30959" y="383.01583" width="221.9833" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(-126,-6.80817)"></rect>
+<text id="label20" class="for_r20" text-anchor="start" x="886.97623" y="397.36585" font-weight="400" font-size="16px" dy="8.05" transform="translate(-126,-6.80817)">Functional Spending: <tspan font-weight="400" font-size="16px">141,483</tspan></text>
+<rect id="label21_bg" class="for_r21" x="1027.05001" y="131.83294" width="257.51656" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label21" class="for_r21" text-anchor="start" x="1031.71671" y="146.18294" font-weight="400" font-size="16px" dy="8.05">Social security and welfare: <tspan font-weight="400" font-size="16px">47,503</tspan></text>
+<rect id="label22_bg" class="for_r22" x="1027.05001" y="320.48409" width="113.43331" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label22" class="for_r22" text-anchor="start" x="1031.71671" y="334.83412" font-weight="400" font-size="16px" dy="8.05">Health: <tspan font-weight="400" font-size="16px">30,311</tspan></text>
+<rect id="label23_bg" class="for_r23" x="1027.05001" y="452.26016" width="138.34993" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label23" class="for_r23" text-anchor="start" x="1031.71671" y="466.61016" font-weight="400" font-size="16px" dy="8.05">Education: <tspan font-weight="400" font-size="16px">20,895</tspan></text>
+<rect id="label24_bg" class="for_r24" x="1027.05001" y="538.1885" width="157.01668" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label24" class="for_r24" text-anchor="start" x="1031.71671" y="552.53851" font-weight="400" font-size="16px" dy="8.05">Finance costs: <tspan font-weight="400" font-size="16px">8,862</tspan></text>
+<rect id="label25_bg" class="for_r25" x="1027.05001" y="596.35684" width="245.06673" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label25" class="for_r25" text-anchor="start" x="1031.71671" y="610.70687" font-weight="400" font-size="16px" dy="8.05">Core government services: <tspan font-weight="400" font-size="16px">7,908</tspan></text>
+<rect id="label26_bg" class="for_r26" x="1027.05001" y="649.97659" width="160.60006" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label26" class="for_r26" text-anchor="start" x="1031.71671" y="664.3266" font-weight="400" font-size="16px" dy="8.05">Law and order: <tspan font-weight="400" font-size="16px">6,734</tspan></text>
+<rect id="label27_bg" class="for_r27" x="1027.05001" y="698.38931" width="278.00008" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label27" class="for_r27" text-anchor="start" x="1031.71671" y="712.73932" font-weight="400" font-size="16px" dy="8.05">Transport and communications: <tspan font-weight="400" font-size="16px">5,472</tspan></text>
+<rect id="label28_bg" class="for_r28" x="1027.05001" y="739.91921" width="291.30001" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label28" class="for_r28" text-anchor="start" x="1031.71671" y="754.26922" font-weight="400" font-size="16px" dy="8.05">Economic and industrial services: <tspan font-weight="400" font-size="16px">3,514</tspan></text>
+<rect id="label29_bg" class="for_r29" x="1027.05001" y="776.74441" width="117.88338" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label29" class="for_r29" text-anchor="start" x="1031.71671" y="791.09445" font-weight="400" font-size="16px" dy="8.05">Defence: <tspan font-weight="400" font-size="16px">3,271</tspan></text>
+<rect id="label30_bg" class="for_r30" x="1027.05001" y="811.2098" width="235.30001" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label30" class="for_r30" text-anchor="start" x="1031.71671" y="825.55984" font-weight="400" font-size="16px" dy="8.05">Environmental protection: <tspan font-weight="400" font-size="16px">2,410</tspan></text>
+<rect id="label31_bg" class="for_r31" x="1027.05001" y="843.27908" width="326.03341" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label31" class="for_r31" text-anchor="start" x="1031.71671" y="857.62908" font-weight="400" font-size="16px" dy="8.05">Housing and community development: <tspan font-weight="400" font-size="16px">2,150</tspan></text>
+<rect id="label32_bg" class="for_r32" x="1027.05001" y="873.31124" width="278.01668" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label32" class="for_r32" text-anchor="start" x="1031.71671" y="887.66126" font-weight="400" font-size="16px" dy="8.05">Heritage culture and recreation: <tspan font-weight="400" font-size="16px">1,457</tspan></text>
+<rect id="label33_bg" class="for_r33" x="1027.05001" y="900.87673" width="163.18331" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label33" class="for_r33" text-anchor="start" x="1031.71671" y="915.22674" font-weight="400" font-size="16px" dy="8.05">Primary services: <tspan font-weight="400" font-size="16px">996</tspan></text>
+<rect id="label34_bg" class="for_r34" x="737.56905" y="383.85577" width="236.16665" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(-44,-36.48574)"></rect>
+<text id="label34" class="for_r34" text-anchor="start" x="742.23574" y="398.20577" font-weight="400" font-size="16px" dy="8.05" transform="translate(-44,-36.48574)">Core Crown Expenses: <tspan font-weight="400" font-size="16px">141,867</tspan></text>
+<rect id="label35_bg" class="for_r35" x="296.44524" y="58.75986" width="280.65001" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(5,-24.998)"></rect>
+<text id="label35" class="for_r35" text-anchor="end" x="572.4286" y="73.10986" font-weight="400" font-size="16px" dy="8.05" transform="translate(5,-24.998)">Unclassified/rounding adjustment: <tspan font-weight="400" font-size="16px">192</tspan></text>
+<rect id="label36_bg" class="for_r36" x="415.64525" y="384.32565" width="161.45" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(1,122.47983)"></rect>
+<text id="label36" class="for_r36" text-anchor="end" x="572.4286" y="398.67567" font-weight="400" font-size="16px" dy="8.05" transform="translate(1,122.47983)">Core Crown: <tspan font-weight="400" font-size="16px">141,675</tspan></text>
+<rect id="label37_bg" class="for_r37" x="172.17144" y="713.17703" width="260.18334" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(68,130.5013)"></rect>
+<text id="label37" class="for_r37" text-anchor="end" x="427.68811" y="727.52706" font-weight="400" font-size="16px" dy="8.05" transform="translate(68,130.5013)">Borrowing required (accrual): <tspan font-weight="400" font-size="16px">7,264</tspan></text>
+<rect id="label38_bg" class="for_r38" x="-95.31903" y="748.12051" width="382.93334" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(145.00002,133.11928)"></rect>
+<text id="label38" class="for_r38" text-anchor="end" x="282.94763" y="762.4705" font-weight="400" font-size="16px" dy="8.05" transform="translate(145.00002,133.11928)">Borrowing required (cash, per Residual Cash): <tspan font-weight="400" font-size="16px">5,996</tspan></text>
+<rect id="label39_bg" class="for_r39" x="-25.05237" y="785.96957" width="312.66668" height="29.4" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(158.00002,30.9363)"></rect>
+<text id="label39" class="for_r39" text-anchor="end" x="282.94763" y="800.31959" font-weight="400" font-size="16px" dy="8.05" transform="translate(158.00002,30.9363)">Non-cash accrual/timing adjustment: <tspan font-weight="400" font-size="16px">1,268</tspan></text>
+</g>
+</g></svg>
